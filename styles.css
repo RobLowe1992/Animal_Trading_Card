@@ -10,15 +10,16 @@
     list-style: none;
   }
   .border-all {
-    background-image: url("/Users/RobTheHuman/Pictures/bgBlue.png");
+    background-image: url("bgBlue.png");
     border-style: groove;
     padding: 15px;
     width: 320px;
     border-radius: 5px;
   }
   .border-info {
+    border-style: groove;
     padding: 10px;
-    width: 294px;
+    width: 277px;
   }
   .border-image {
     padding: 0px;
